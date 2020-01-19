@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "firebase-tools": "^7.12.1"
+    "firebase-tools": "^7.12.1",
+    "mqtt": "^3.0.0"
   },
   "devDependencies": {},
   "scripts": {
