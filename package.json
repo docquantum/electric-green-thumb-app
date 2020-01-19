@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/docquantum/electric-green-thumb-app/issues"
   },
-  "homepage": "https://github.com/docquantum/electric-green-thumb-app#readme"
+  "homepage": "https://github.com/docquantum/electric-green-thumb-app#readme",
+  "dependencies": {
+    "mqtt": "^3.0.0"
+  }
 }
